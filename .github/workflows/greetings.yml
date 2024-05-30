@@ -13,4 +13,4 @@ jobs:
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: "欢迎使用"
-        pr-message: "你好"
+        pr-message: "你的第一道题，加油！"
